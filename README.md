@@ -1,2 +1,2 @@
-# curso-de-pseudo-classes-do-css
+# Pseudo classes do CSS
 Exemplos do curso "Pseudo classes do CSS"
